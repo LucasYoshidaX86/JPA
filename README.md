@@ -27,7 +27,7 @@ Descrição do projeto: Este projeto cria um sistema simples utilizando a lingua
 
 📋 Pré-requisitos JDK 17 Eclipse IDE (versão 2024-03) Para instalar o JDK, acesse o site oficial da Oracle e siga as instruções. O Eclipse pode ser baixado no site da Eclipse Foundation.
 
-🔧 Instalação Clone o repositório: bash Copiar código git clone https://github.com/LucasYoshidaX86/CONEXAOBD.git Abra o Eclipse e importe o projeto como um projeto Maven. Execute a classe principal para iniciar o aplicativo.
+🔧 Instalação Clone o repositório: bash Copiar código git clone https://github.com/LucasYoshidaX86/JPA.git Abra o Eclipse e importe o projeto como um projeto Maven. Execute a classe principal para iniciar o aplicativo.
 
 🛠️ Construído com Java; IDE Eclipse; GIT; Git Hub, Wamp.
 
