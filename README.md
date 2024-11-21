@@ -11,31 +11,16 @@ Descrição do projeto: Este projeto cria um sistema simples utilizando a lingua
  - Print Screen do projeto funcionando:
 
   
-![Acesso ao print screen ](https://github.com/LucasYoshidaX86/CONEXAOBD/blob/main/AtualizarDados.png)
+![Acesso ao print screen ](https://github.com/LucasYoshidaX86/JPA/blob/master/Captura%20de%20tela%202024-11-20%20001149.png)
 
 
-- Print Screen do projeto funcionando (Banco de Dados após a alteração):
+- Print Screen do Banco de Dados MySql:
+
+![Acesso ao print screen ](https://github.com/LucasYoshidaX86/JPA/blob/master/Captura%20de%20tela%202024-11-20%20001458.png)
+
 
   
-![Acesso ao print screen ](https://github.com/LucasYoshidaX86/CONEXAOBD/blob/main/AtualizarDadosMySQL.png)
 
-
-- Print Screen do projeto funcionando (Deletando dados de Danilo):
-
-  
-![Acesso ao print screen ](https://github.com/LucasYoshidaX86/CONEXAOBD/blob/main/DeletarDados.png)
-
-
-- Print Screen do projeto funcionando (Banco de dados após alteração):
-
-  
-![Acesso ao print screen ](https://github.com/LucasYoshidaX86/CONEXAOBD/blob/main/DeletarDadosMySQL.png)
-
-
-- Print Screen do projeto funcionando (Exibindo todas as informações do Bando de Dados):
-
-  
-![Acesso ao print screen ](https://github.com/LucasYoshidaX86/CONEXAOBD/blob/main/LerDados.png)
 
 
 🚀 Começando Para iniciar o desenvolvimento do projeto, clone o repositório do GitHub e abra o projeto no Eclipse. Certifique-se de ter o JDK instalado em sua máquina.
@@ -44,7 +29,7 @@ Descrição do projeto: Este projeto cria um sistema simples utilizando a lingua
 
 🔧 Instalação Clone o repositório: bash Copiar código git clone https://github.com/LucasYoshidaX86/CONEXAOBD.git Abra o Eclipse e importe o projeto como um projeto Maven. Execute a classe principal para iniciar o aplicativo.
 
-🛠️ Construído com Java; IDE Eclipse; GIT; Git Hub.
+🛠️ Construído com Java; IDE Eclipse; GIT; Git Hub, Wamp.
 
 📌 Versão Versão 1.0 - Lançamento inicial do projeto 20/11/2024.
 
